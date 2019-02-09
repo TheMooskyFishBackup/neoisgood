@@ -1,0 +1,12 @@
+body {
+	background-color: #5A1466;
+	color: white;
+	font-family: "Comic Sans MS";
+	font-size: 32px;
+	text-align: center;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
